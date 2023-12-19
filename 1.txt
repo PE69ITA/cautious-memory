@@ -1,1 +1,5 @@
-111 adsdcsdsvfedc
+<<<<<<< HEAD
+111 
+=======
+11
+>>>>>>> newfeature
